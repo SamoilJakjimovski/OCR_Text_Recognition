@@ -1,4 +1,4 @@
-OCR Text Recognition Project
+**OCR Text Recognition Project
 Welcome to the OCR Text Recognition project repository!
 
 Overview
