@@ -9,6 +9,6 @@ This project is built using Python and focuses on text recognition from images u
 
 
 Features  
-Text recognition from images
-Utilization of OCR technology
-Python-based implementation
+Text recognition from images  
+Utilization of OCR technology  
+Python-based implementation  
